@@ -2,7 +2,7 @@
 translate latex using llm to pdf format
 
 
-#逻辑解释
+# 逻辑解释
 
 读取文件夹下的tex文件 然后使用llm 翻译成latex代码丢回来 并使用ctex宏加载编译 最后得到中文版的pdf
 
